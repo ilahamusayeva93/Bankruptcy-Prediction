@@ -1,8 +1,7 @@
-# Taiwanese Bankruptcy Prediction Case Study
-
+# Taiwanese Bankruptcy Prediction 
 ## Overview
 
-This case study aims to predict the risk of bankruptcy for companies using the Taiwanese Bankruptcy Prediction dataset. The dataset contains financial attributes collected from the Taiwan Economic Journal for the years 1999 to 2009. The classification task involves building Bagging and Boosting Classifier models to predict bankruptcy risk based on the dataset features.
+This study aims to predict the risk of bankruptcy for companies using the Taiwanese Bankruptcy Prediction dataset. The dataset contains financial attributes collected from the Taiwan Economic Journal for the years 1999 to 2009. The classification task involves building Bagging and Boosting Classifier models to predict bankruptcy risk based on the dataset features.
 
 ## Dataset
 
